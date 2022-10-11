@@ -1,5 +1,5 @@
 # print2cmd_MATLAB
-redirect mlx/live script output to command window
+Redirect mlx/live script output to command window
 
 ## what does the script do?
 When you are using MATLAB live script(that's .mlx file), the output are redirected from command window to live script. 
